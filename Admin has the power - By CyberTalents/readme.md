@@ -16,6 +16,6 @@ Administrators only has the power to see the flag , can you be one ?
  ![Alt text](support_privalage.jpg.png)
 4. We need to open BurpSuite for this. 
 5. After checking the response in burp it's clear that as it stats in the Descriptions "Administrators only has the power to see the flag" We need to change the role to ```admin```
-![Alt text](role_changing.jpg.png)
+![Alt text](role_changine.jpg.png)
 6. After forwarding that request we get the flag. 
 ![Alt text](flag.jpg.png)
